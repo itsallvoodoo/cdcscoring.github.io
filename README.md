@@ -1,2 +1,2 @@
-# cdcsoring.github.io
+# cdcscoring.github.io
 Wiki for the open source cyber defense competition scoring engine
